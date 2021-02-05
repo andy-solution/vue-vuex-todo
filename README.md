@@ -18,7 +18,3 @@ alt="Tutorial creating hangman project in Vue 3" width="600" /></a></p>
 Do you still need Vuex in Vue 3? In this video, we will be looking at the changes made to Vuex 4 and then using these concepts to create a todo using Vue 3's composition API with typescript support.
 
 The major goal of version 4 is to support the new Composition API introduced in Vue 3 and to simplify the usage of Vuex overall. It is also intended to support a more robust inference for TypeScript. I do feel the new way of typescript support in Vuex is improved but it is verbose and still needs more improvement. We will explore this in detail with a todo app example
-
-# vue-vuex-todo
-# vue-vuex-todo
-# vue-vuex-todo
